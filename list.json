@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Unseen",
+    "creators": "Space34",
+    "isfixedVersionReq": false,
+    "isBuffed": false,
+    "is2P": false,
+    "Fps": 120,
+    "Wr": null,
+    "MinWr": 1.00,
+    "Records": [
+      {
+        "name": "Victor",
+        "hz": 120,
+        "recordPercent": 100,
+        "link": null
+      },
+      {
+        "name": "Non Victor",
+        "hz": 120,
+        "recordPercent": 69,
+        "link": null
+      }
+    ],
+    "Id": 9181,
+    "ShowcaseLink": null
+  },
+  {
+    "name": "Slow Wind",
+    "creators": "Space34",
+    "isfixedVersionReq": false,
+    "isBuffed": false,
+    "is2P": false,
+    "Fps": 120,
+    "Wr": null,
+    "MinWr": 2.00,
+    "Records": [],
+    "Id": 7788,
+    "ShowcaseLink": null
+  }
+]
